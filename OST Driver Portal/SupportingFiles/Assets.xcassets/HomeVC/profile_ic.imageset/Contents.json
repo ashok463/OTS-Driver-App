@@ -1,0 +1,36 @@
+{
+  "images" : [
+    {
+      "filename" : "WhatsApp Image 2020-08-27 at 3.38.48 PM.jpeg",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "WhatsApp Image 2020-08-27 at 3.38.48 PM-1.jpeg",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "WhatsApp Image 2020-08-27 at 3.38.48 PM-2.jpeg",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "WhatsApp Image 2020-08-27 at 3.38.48 PM-3.jpeg",
+      "idiom" : "ipad",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "WhatsApp Image 2020-08-27 at 3.38.48 PM-4.jpeg",
+      "idiom" : "ipad",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
